@@ -411,12 +411,12 @@ body {
     clip-path: polygon(0% 70%, 20% 50%, 45% 65%, 75% 60%, 100% 80%, 100% 100%, 0% 100%);
     backface-visibility: visible;
 }.switcher-quality-0-2BcaU .plain {
-    background: #936f4f;
-}
-.switcher-quality-2-1JM6X .plain {
     background: url(./LNw44X1WPBDZETFMDPBEgHgV5MUdSP1GL4.jpg) 50% 50% / cover;
 }
-.switcher-quality-1-3Cf5G .switcher-handle-3j71N .plain {
+.switcher-quality-1-3Cf5G .plain {
+    background: url(./LNw44X1WPBDZETFMDPBEgHgV5MUdSP1GL4.jpg) 50% 50% / cover;
+}
+.switcher-quality-2-1JM6X .switcher-handle-3j71N .plain {
     background: url(./abcc39d175e2f5f6ad0df4cc14457193.jpg) 50% 50% / cover;
 }
 
