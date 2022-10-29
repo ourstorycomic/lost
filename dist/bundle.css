@@ -425,10 +425,14 @@ body {
 
 .switcher-off-yQoql .switcher-handle-3j71N {
     transform: rotateX(-45deg);
+    background: url(./LNw44X1WPBDZETFMDPBEgHgV5MUdSP1GL4.jpg) 50% 50% / cover;
+
 }
 
 .switcher-on-H20ki .switcher-handle-3j71N {
     transform: rotateX(45deg);
+    background: url(./LNw44X1WPBDZETFMDPBEgHgV5MUdSP1GL4.jpg) 50% 50% / cover;
+
 }
 
 .switcher-reachable-24rEd .plain {
